@@ -1,0 +1,54 @@
+
+
+
+Fecha del curso: noviembre-06-2015
+
+
+Curso Intensivo de Twitter Bootstrap. (12 videos)
+
+	https://www.youtube.com/playlist?list=PLEtcGQaT56chvpvBH0W7MKuIIkFKh3hL9
+
+
+Curso Twitter Bootstrap (56 videos)
+
+	https://www.youtube.com/playlist?list=PLpOqH6AE0tNhW4kDFOTPs4keq1GcvJnwI
+
+
+Curso de BootStrap 3.2 diseño front end (25 videos)
+
+	https://www.youtube.com/playlist?list=PLRjuMxvCRGQ4I9hbIT-2r3R-gC6hCZvma
+
+
+Curso de Bootstrap 3 (36 videos)
+
+	https://www.youtube.com/playlist?list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW
+
+
+
+
+	https://github.com/twbs/bootstrap
+
+
+	Aquí quedamos: https://www.youtube.com/watch?v=gsYiwW9zihg&index=2&list=PLEtcGQaT56chvpvBH0W7MKuIIkFKh3hL9
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Desarrollo para la versión 3.2, versión actual 3.3.5, fecha de hoy 11/14/2015
+
+
+
+
+	Descripción y características:
+	______________________________
+
+
+	_
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+
+
+
+Fecha del curso: noviembre-06-2015
+
+
+Curso Intensivo de Twitter Bootstrap. (12 videos)
+
+	https://www.youtube.com/playlist?list=PLEtcGQaT56chvpvBH0W7MKuIIkFKh3hL9
+
+
+	https://github.com/twbs/bootstrap
+
+
+	Aquí quedamos: https://www.youtube.com/watch?v=gsYiwW9zihg&index=2&list=PLEtcGQaT56chvpvBH0W7MKuIIkFKh3hL9
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	_ésta tag, la podemos agregar en títulos 
+
+		<title>mi título<small>y mi sub sncabezado</small></title>
+
+

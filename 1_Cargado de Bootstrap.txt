@@ -1,0 +1,100 @@
+
+
+
+Fecha del curso: noviembre-06-2015
+
+
+Curso Intensivo de Twitter Bootstrap. (12 videos)
+
+	https://www.youtube.com/playlist?list=PLEtcGQaT56chvpvBH0W7MKuIIkFKh3hL9
+
+
+	https://github.com/twbs/bootstrap
+
+
+	Aquí quedamos: https://www.youtube.com/watch?v=gsYiwW9zihg&index=2&list=PLEtcGQaT56chvpvBH0W7MKuIIkFKh3hL9
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	1_primero vamos a la página de Bootstrap, y descargamos el framework, "http://getbootstrap.com/"
+
+
+	2_se nos descargará un winrar, con el framework, el cuál, tendremos que descomprimir en cada proyecto
+
+	que deseamos realizar con bootstrap
+
+
+	3_al descomprimir el winrar, de bootstrap, se extraerá una carpeta la cuál, contendrá 3 carpetas dentro
+
+	éstras son:
+
+
+		_Css
+
+		_Fonts
+
+		_Js
+
+
+
+	Opcional no necesario:
+	______________________
+
+
+	_luego volvemos a la página de bootstrap, examples, "http://getbootstrap.com/getting-started/", y hacemos
+
+	mouse right click, sobre una de las imágenes de plantillas de ejemplo y seleccionamos la opción de guardar
+
+	enlace como, y lo guardamos dentro de la estructura de proyecto que estemos utilizando y lo renombramos
+
+	ej: example.html, luego abrimos éste con ej: sublime text
+
+
+	_ahora éste archivo plantilla de ejemplo que hemos guardado "example.html", debemos editarlo para que éste
+
+	responda a la estructura de archivos de nuestro proyecto
+
+
+
+	Enrutamiento de bootstrap:
+	__________________________
+
+
+	_así, vamos al "head", y redireccionamos la ruta de css a la de nuestro proyecto, ej:
+
+
+		Original:
+		_________
+
+
+		<!-- Bootstrap core CSS -->
+    		<link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+
+		Cambiarlo por:
+		______________
+
+
+		<!-- Bootstrap core CSS -->
+   	 	<link rel="stylesheet" href="C:\desarrollos\bootstrap\css\bootstrap.min.css" rel="stylesheet">
+
+
+	_así, tendremos re redireccionar todos las llamadas relacionales ha las rutas de nuestro proyecto
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+	_para relacionar bootstrap, ha nuestro proyecto debemos hacerlo del mismo modo que cualquier css,
+
+
+		<link rel="stylesheet" href="C:\desarrollos\bootstrap\css\bootstrap.min.css" rel="stylesheet">, 
+
+		dentro de la cabecera "head", del documento
+
